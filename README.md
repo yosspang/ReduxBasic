@@ -11,6 +11,13 @@ npm install --save redux
 yarn add react-redux
 ```
 
+##OS lINUX
+```bash
+cd android
+chmod +x gradlew
+gradle build --warning-mode=all
+```
+
 ## referensi
 
 https://react-redux.js.org/introduction/quick-start
