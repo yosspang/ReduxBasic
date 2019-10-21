@@ -11,7 +11,7 @@ npm install --save redux
 yarn add react-redux
 ```
 
-##OS lINUX
+##OS lINUX CONFIG
 ```bash
 cd android
 chmod +x gradlew
