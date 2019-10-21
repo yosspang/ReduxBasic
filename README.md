@@ -11,7 +11,7 @@ npm install --save redux
 yarn add react-redux
 ```
 
-## refernsi
+## referensi
 
 https://react-redux.js.org/introduction/quick-start
 
